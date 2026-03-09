@@ -106,3 +106,7 @@ lehti rivista
 sanomalehti giornale
 kynä penna
 paperi carta
+cosm cinese
+lumi sole
+gin pollo
+gin molle
